@@ -20,16 +20,20 @@
         </a>
       </div>
     {% endif %}
+    {% if user.email %}
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
         <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          2422081021@stu.xmut.edu.cn
+          {{ user.email }}
+          {{ 2422081021@stu.xmut.edu.cn }}
         </a>
       </div>
+    {% endif %}
     {% if user.location %}
       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
         {% octicon location height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
-        Xiamen University of Technology
+        {{ user.location }}
+        {{ Xiamen University of Technology }}
       </div>
     {% endif %}
     {% if site.social_media %}
