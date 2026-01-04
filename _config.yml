@@ -47,12 +47,13 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Test-time Adaptation
+    web_url: https://github.com/search?q=Test-time%20adaptation&type=repositories
+    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: 3D Point Cloud
+    web_url: https://github.com/search?q=3D+Point+Cloud&type=repositories
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: 3D Semantic Segmentation
+    web_url: https://github.com/search?q=3D+Semantic+Segmentation&type=repositories
+    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
