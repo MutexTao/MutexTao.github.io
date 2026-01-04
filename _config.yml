@@ -49,11 +49,12 @@ projects:
 topics:
   - name: Test-time Adaptation
     web_url: https://github.com/search?q=Test-time%20adaptation&type=repositories
-    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://raw.githubusercontent.com/tim-learn/awesome-test-time-adaptation/refs/heads/main/TTA.png
 
   - name: 3D Point Cloud
     web_url: https://github.com/search?q=3D+Point+Cloud&type=repositories
+    image_url: https://apollo-studio-public.bj.bcebos.com/community/article/image/b40e1efb6bfd2d108f33bf67af29e521c7fcff29
 
   - name: 3D Semantic Segmentation
     web_url: https://github.com/search?q=3D+Semantic+Segmentation&type=repositories
-    # image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://camo.githubusercontent.com/b744bc4ad2b502a5fe0c3034b75445fe22e71779868941e3be91d6401eec132e/68747470733a2f2f6e76696469612e6769746875622e696f2f4d696e6b6f77736b69456e67696e652f5f696d616765732f7365676d656e746174696f6e2e706e67
